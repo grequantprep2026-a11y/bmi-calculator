@@ -13,7 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://bmi-calculator.com"),
+  metadataBase: new URL("https://mybmicalculator.vercel.app"),
+  applicationName: "BMI Calculator",
   title: {
     default: "Free BMI Calculator | Calculate Your BMI Online",
     template: "%s | BMI Calculator",
@@ -36,7 +37,7 @@ export const metadata: Metadata = {
     title: "Free BMI Calculator | Calculate Your BMI Online",
     description:
       "Instant BMI results, healthy weight range, and expert health guides in one place.",
-    url: "https://bmi-calculator.com",
+    url: "https://mybmicalculator.vercel.app",
     siteName: "BMI Calculator",
     locale: "en_US",
     type: "website",
