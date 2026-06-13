@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "Why BMI Matters: What Your Score Can Tell You",
     description:
       "Understand the reasons BMI matters and how it connects to long-term health risks.",
-    url: "https://bmi-calculator.com/why-bmi-matters",
+    url: "https://mybmicalculator.vercel.app/why-bmi-matters",
     type: "article",
   },
 };

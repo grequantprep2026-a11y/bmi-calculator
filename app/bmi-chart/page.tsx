@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "BMI Chart Explained: Understand Your BMI Category",
     description:
       "Learn how the BMI chart works and what each weight category means for adults.",
-    url: "https://bmi-calculator.com/bmi-chart",
+    url: "https://mybmicalculator.vercel.app/bmi-chart",
     type: "article",
   },
 };

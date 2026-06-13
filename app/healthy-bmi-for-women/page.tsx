@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "Healthy BMI for Women: What the Range Means",
     description:
       "Learn what an ideal BMI range for women looks like and why context matters for health.",
-    url: "https://bmi-calculator.com/healthy-bmi-for-women",
+    url: "https://mybmicalculator.vercel.app/healthy-bmi-for-women",
     type: "article",
   },
 };

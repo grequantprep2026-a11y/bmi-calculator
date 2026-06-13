@@ -131,7 +131,7 @@ export default function ArticlePageShell({
             headline: title,
             description,
             image: imageSrc,
-            url: `https://bmi-calculator.com${canonicalPath}`,
+            url: `https://mybmicalculator.vercel.app${canonicalPath}`,
             keywords: keywords.join(", "),
             author: {
               "@type": "Organization",

@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     title: "Free BMI Calculator",
     description:
       "Calculate your BMI instantly and learn your healthy weight range with trusted health guidance.",
-    url: "https://bmi-calculator.com/",
+    url: "https://mybmicalculator.vercel.app/",
     type: "website",
   },
 };
@@ -35,7 +35,7 @@ const articles = [
       headline: "What Is BMI?",
       description:
         "Body Mass Index (BMI) is a simple calculation using your height and weight to determine if your weight is healthy.",
-      mainEntityOfPage: "https://yourdomain.com/what-is-bmi",
+      mainEntityOfPage: "https://mybmicalculator.vercel.app/what-is-bmi",
     },
   },
   {
@@ -146,12 +146,12 @@ export default function Home() {
             "@context": "https://schema.org",
             "@type": "WebSite",
             name: "BMI Calculator",
-            url: "https://bmi-calculator.com",
+            url: "https://mybmicalculator.vercel.app",
             description:
               "Free BMI calculator with healthy weight guidance and expert articles about BMI and health.",
             potentialAction: {
               "@type": "SearchAction",
-              target: "https://bmi-calculator.com/?q={search_term_string}",
+              target: "https://mybmicalculator.vercel.app/?q={search_term_string}",
               "query-input": "required name=search_term_string",
             },
           }),

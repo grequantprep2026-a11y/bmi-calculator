@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "BMI Formula Explained: How to Calculate BMI",
     description:
       "See the BMI formula in metric and imperial units and understand how the calculation is done.",
-    url: "https://bmi-calculator.com/bmi-formula",
+    url: "https://mybmicalculator.vercel.app/bmi-formula",
     type: "article",
   },
 };

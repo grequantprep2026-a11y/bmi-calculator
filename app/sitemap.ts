@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://bmi-calculator.com";
+  const baseUrl = "https://mybmicalculator.vercel.app";
 
   return [
     {

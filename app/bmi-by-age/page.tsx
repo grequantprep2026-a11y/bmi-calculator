@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "BMI by Age: Why It Changes Across Life Stages",
     description:
       "See how BMI ranges and interpretation differ by age, from children to older adults.",
-    url: "https://bmi-calculator.com/bmi-by-age",
+    url: "https://mybmicalculator.vercel.app/bmi-by-age",
     type: "article",
   },
 };

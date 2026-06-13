@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "Healthy BMI for Men: What It Means",
     description:
       "Understand the healthy BMI range for men and how it fits into broader health assessment.",
-    url: "https://bmi-calculator.com/healthy-bmi-for-men",
+    url: "https://mybmicalculator.vercel.app/healthy-bmi-for-men",
     type: "article",
   },
 };

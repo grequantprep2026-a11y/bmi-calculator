@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "How to Improve Your BMI: Healthy Ways to Move Forward",
     description:
       "Discover practical strategies to improve your BMI in a healthy, sustainable way.",
-    url: "https://bmi-calculator.com/how-to-improve-bmi",
+    url: "https://mybmicalculator.vercel.app/how-to-improve-bmi",
     type: "article",
   },
 };

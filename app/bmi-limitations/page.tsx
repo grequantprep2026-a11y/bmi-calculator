@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "Limitations of BMI: What BMI Does and Does Not Measure",
     description:
       "Learn why BMI is a helpful screening tool but not a complete health assessment.",
-    url: "https://bmi-calculator.com/bmi-limitations",
+    url: "https://mybmicalculator.vercel.app/bmi-limitations",
     type: "article",
   },
 };

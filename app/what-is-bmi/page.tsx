@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "What Is BMI? A Simple Guide to Body Mass Index",
     description:
       "Understand BMI, how it works, and how the numbers relate to healthy body weight ranges.",
-    url: "https://bmi-calculator.com/what-is-bmi",
+    url: "https://mybmicalculator.vercel.app/what-is-bmi",
     type: "article",
   },
 };
